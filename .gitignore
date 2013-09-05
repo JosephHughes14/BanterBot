@@ -1,0 +1,5 @@
+#compiled files
+*.*~
+
+#secrets for twitter
+tokens_and_secrets*
